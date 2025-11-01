@@ -12,7 +12,7 @@ The problems are organized by difficulty from **800 to 1900**. You can find the 
 | Difficulty | Link |
 |------------|------|
 | 800        | [800 folder](https://github.com/EvanBinu/Codeforces-Problem-Solving/tree/main/800) |
-| 900        | [900 folder](https://github.com/EvanBinu/Codeforces-Problem-Solving/tree/main) |
+| 900        | [900 folder](https://github.com/EvanBinu/Codeforces-Problem-Solving/tree/main/900) |
 | 1000       | [1000 folder](https://github.com/EvanBinu/Codeforces-Problem-Solving/tree/main) |
 | 1100       | [1100 folder](https://github.com/EvanBinu/Codeforces-Problem-Solving/tree/main) |
 | 1200       | [1200 folder](https://github.com/EvanBinu/Codeforces-Problem-Solving/tree/main) |
