@@ -5,3 +5,4 @@
 | Vasilije in Cacak | 1878C | `math` | [Link](https://codeforces.com/problemset/problem/1878/C) | [Solution](https://github.com/EvanBinu/Codeforces-Problem-Solving/blob/main/900/CF_1878_C.cpp) |
 | Jellyfish and Undertale | 1875A | `greedy` | [Link](https://codeforces.com/problemset/problem/1875/A) | [Solution](https://github.com/EvanBinu/Codeforces-Problem-Solving/blob/main/900/CF_1875_A.cpp) |
 | Make It Zero | 1869A | `greedy` | [Link](https://codeforces.com/problemset/problem/1869/A) | [Solution](https://github.com/EvanBinu/Codeforces-Problem-Solving/blob/main/900/CF_1869_A.cpp) |
+| Balanced Round | 1850D | `brute force` | [Link](https://codeforces.com/problemset/problem/1850/D) | [Solution](https://github.com/EvanBinu/Codeforces-Problem-Solving/blob/main/900/CF_1850_D.cpp) |
