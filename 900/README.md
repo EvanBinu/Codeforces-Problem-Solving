@@ -6,3 +6,4 @@
 | Jellyfish and Undertale | 1875A | `greedy` | [Link](https://codeforces.com/problemset/problem/1875/A) | [Solution](https://github.com/EvanBinu/Codeforces-Problem-Solving/blob/main/900/CF_1875_A.cpp) |
 | Make It Zero | 1869A | `greedy` | [Link](https://codeforces.com/problemset/problem/1869/A) | [Solution](https://github.com/EvanBinu/Codeforces-Problem-Solving/blob/main/900/CF_1869_A.cpp) |
 | Balanced Round | 1850D | `brute force` | [Link](https://codeforces.com/problemset/problem/1850/D) | [Solution](https://github.com/EvanBinu/Codeforces-Problem-Solving/blob/main/900/CF_1850_D.cpp) |
+| Comparison String | 1837B | `greedy` | [Link](https://codeforces.com/problemset/problem/1837/B) | [Solution](https://github.com/EvanBinu/Codeforces-Problem-Solving/blob/main/900/CF_1837_B.cpp) |Comparison String
