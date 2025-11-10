@@ -11,3 +11,4 @@
 | Not Dividing | 1794B | `constructive algorithms` | [Link](https://codeforces.com/contest/1794/problem/B) | [Solution](https://github.com/EvanBinu/Codeforces-Problem-Solving/blob/main/900/CF_1794_B.cpp) |
 | Mainak and Array | 1726A | `greedy` | [Link](https://codeforces.com/problemset/problem/1726/A) | [Solution](https://github.com/EvanBinu/Codeforces-Problem-Solving/blob/main/900/CF_1726_A.cpp) |
 | NIT Destroys the Universe | 1696B | `greedy` | [Link](https://codeforces.com/problemset/problem/1696/B) | [Solution](https://github.com/EvanBinu/Codeforces-Problem-Solving/blob/main/900/CF_1696_B.cpp) |
+|AvtoBus | 1679A | `math` | [Link](https://codeforces.com/contest/1679/problem/A) | [Solution](https://github.com/EvanBinu/Codeforces-Problem-Solving/blob/main/900/CF_1679_A.cpp) |
